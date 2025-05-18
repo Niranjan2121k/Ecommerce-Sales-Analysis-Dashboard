@@ -30,9 +30,6 @@ This project presents a comprehensive interactive dashboard that analyzes ecomme
 
 This section of the dashboard provides a high-level snapshot of ecommerce performance using five essential KPIs. Each metric includes current year values and Year-over-Year (YoY) growth indicators with trend lines.
 
-![](Category.png)
-
-
 | KPI             | Current Value | YoY Growth   | Trend Description                                   |
 |----------------|---------------|--------------|-----------------------------------------------------|
 | **Sales**       | $2.30M        | 🔼 **+20.62%** | Strong upward trend in overall sales revenue.       |
@@ -45,7 +42,6 @@ This section of the dashboard provides a high-level snapshot of ecommerce perfor
 - All key metrics except **Profit Margin** showed positive YoY growth.
 - **Profit Margin** dropped slightly despite higher sales and profit, indicating potential changes in pricing strategy, cost structure, or product mix.
 - The upward trend lines in Sales, Profit, Quantity, and Orders confirm overall business growth and performance improvement.
-
 
 
 ## 📈 Monthly Sales and Profit Analysis
@@ -70,7 +66,7 @@ This chart supports business decisions like:
 
 ## 🗂️ Category Wise Profit Analysis
 
-![](Category-sales.png)
+![](Category.png)
 
 This chart presents the profit contribution by product category and the overall total profit. It helps identify which categories are the most profitable and where improvements could be made.
 
@@ -86,6 +82,33 @@ This chart presents the profit contribution by product category and the overall 
 - Investing more in **Technology** and **Office Supplies** could yield higher returns.
 - There may be opportunities to optimize **Furniture** sales or reduce costs to increase its profit margin.
 - No category reported a loss, indicating overall healthy profitability.
+
+# Category Wise Sales Share Analysis 
+
+![](Category-sales.png)
+
+
+## Breakdown
+- **Furniture**: 
+  - **Sales Share**: 36.40%
+  - Furniture accounts for the largest share of sales among the three categories.
+- **Office Supplies**: 
+  - **Sales Share**: 31.30%
+  - Office supplies represent a significant but smaller portion compared to furniture.
+- **Technology**: 
+  - **Sales Share**: 32.30%
+  - Technology sales are closely trailing office supplies.
+
+## Insights
+- **Dominance of Furniture**:
+  - The furniture category holds the highest sales percentage, indicating strong market demand.
+- **Close Competition Between Office Supplies and Technology**:
+  - With a slight edge, technology sales are just above office supplies. This suggests a competitive market between these two categories.
+- **Potential Areas for Growth**:
+  - The presence of more than 31% in both office supplies and technology indicates opportunities for increasing market share in these sectors.
+- **Market Strategy Implications**:
+  - Businesses should consider focusing on promotions and product offerings for furniture while also paying attention to the competitive landscape between technology and office supplies to capture additional market share.
+
 
 # Sales by State Analysis
 
