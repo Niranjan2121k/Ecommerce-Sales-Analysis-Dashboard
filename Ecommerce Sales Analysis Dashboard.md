@@ -70,7 +70,7 @@ This chart supports business decisions like:
 
 ## 🗂️ Category Wise Profit Analysis
 
-![](Category.png)
+![](Category-sales.png)
 
 This chart presents the profit contribution by product category and the overall total profit. It helps identify which categories are the most profitable and where improvements could be made.
 
@@ -137,7 +137,7 @@ This chart presents the profit contribution by product category and the overall 
 
 # Final Dashboard
 
-![](Final dashboard.png)
+![](Final-dashboard.png)
 
 ## 🎯 Insights Delivered
 - Steady growth in sales and order volume year-over-year
