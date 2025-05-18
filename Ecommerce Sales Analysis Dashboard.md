@@ -135,7 +135,7 @@ This chart presents the profit contribution by product category and the overall 
 - **Sales Distribution**: The gap between phones and the other categories indicates a potential niche market that could be explored further.
 - **Opportunity for Growth**: Categories like Binders may benefit from targeted marketing strategies to boost their sales performance.
 
-# Final adshboard
+# Final Dashboard
 
 ![](Final dashboard.png)
 
